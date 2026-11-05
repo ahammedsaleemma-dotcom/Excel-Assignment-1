@@ -1,0 +1,35 @@
+Product ID,Product Name,Brand Name,Price ($),Quantity,Category,Price Range,Day,Country Code,Month,,,
+28-JAN-US,Laptop,Dell,1000,30,Electronics,High Price,28,US,JAN,,,
+15-FEB-US,Sneakers,Nike,80,15,Fashion,Standard Price,15,US,FEB,,"Question 1  Sum, Count, Average:",
+03-MAR-US,Coffee Maker,Keurig,130,40,Kitchen,Standard Price,03,US,MAR,,• What is the total price of all products in the dataset?," $10,100 "
+11-APR-US,Smartphone,Samsung,900,25,Electronics,High Price,11,US,APR,,• How many products are there in the dataset?,34
+22-MAY-US,Backpack,North Face,70,20,Outdoor,Standard Price,22,US,MAY,,• Calculate the average price of the products., $297 
+07-JUN-UK,Headphones,Sony,200,45,Electronics,Standard Price,07,UK,JUN,,Question 2  Min and Max:,
+19-JUL-UK,T-shirt,Adidas,30,5,Fashion,Standard Price,19,UK,JUL,,• Determine the minimum price among all products., $30 
+23-AUG-UK,Blender,Ninja,90,35,Kitchen,Standard Price,23,UK,AUG,,• Find the maximum price among all products.," $1,000 "
+05-SEP-UK,Tablet,Apple,500,50,Electronics,High Price,05,UK,SEP,,Question 4 Min and Max:,
+14-OCT-UK,Hiking Boots,Timberland,130,10,Outdoor,Standard Price,14,UK,OCT,,• Calculate the total price for products in the 'Electronics' category using the SUMIF function.," $8,050 "
+17-JUN-IN,Laptop,HP,950,25,Electronics,High Price,17,IN,JUN,,• Determine the count of products with a price less than $100 using the COUNTIF function.,11
+25-NOV-AU,Sneakers,Adidas,90,40,Fashion,Standard Price,25,AU,NOV,,,
+08-DEC-DE,Coffee Maker,Nespresso,120,35,Kitchen,Standard Price,08,DE,DEC,,Question 3 Answer is Column G,
+18-FEB-CA,Smartwatch,Fitbit,150,15,Electronics,Standard Price,18,CA,FEB,,"Question 5 Answers is Column H,I,J",
+16-APR-ES,Headphones,Bose,250,20,Electronics,Standard Price,16,ES,APR,,,
+21-AUG-CA,Laptop Bag,Samsonite,50,35,Accessories,Standard Price,21,CA,AUG,,,
+20-AUG-CN,Smartwatch,Huawei,160,15,Electronics,Standard Price,20,CN,AUG,,,
+27-JAN-IT,Laptop,Asus,980,10,Electronics,High Price,27,IT,JAN,,,
+01-MAR-UK,Sunglasses,Oakley,150,15,Fashion,Standard Price,01,UK,MAR,,,
+14-AUG-US,Camping Tent,Coleman,200,10,Outdoor,Standard Price,14,US,AUG,,,
+14-MAY-RU,Camera,Nikon,700,50,Electronics,High Price,14,RU,MAY,,,
+09-JAN-CA,Microwave,Panasonic,80,20,Kitchen,Standard Price,09,CA,JAN,,,
+19-JUL-BR,Fitness Tracker,Xiaomi,150,30,Electronics,Standard Price,19,BR,JUL,,,
+21-AUG-CA,Laptop Bag,Samsonite,50,35,Accessories,Standard Price,21,CA,AUG,,,
+29-SEP-CA,Smartphone,Google,800,45,Electronics,High Price,29,CA,SEP,,,
+03-JUN-CA,Sunglasses,Ray-Ban,130,25,Fashion,Standard Price,03,CA,JUN,,,
+11-JUL-CA,Blender,Vitamix,400,40,Kitchen,Standard Price,11,CA,JUL,,,
+16-APR-ES,Headphones,Bose,230,20,Electronics,Standard Price,16,ES,APR,,,
+07-MAR-CA,Dress,Zara,60,30,Fashion,Standard Price,07,CA,MAR,,,
+13-APR-CA,Toaster,Hamilton,40,10,Kitchen,Standard Price,13,CA,APR,,,
+24-MAY-CA,Fitness Tracker,Garmin,130,5,Electronics,Standard Price,24,CA,MAY,,,
+02-DEC-CA,Jeans,Levi's,50,50,Fashion,Standard Price,02,CA,DEC,,,
+17-JUN-IN,Laptop,HP,950,25,Electronics,High Price,17,IN,JUN,,,
+09-JUL-FR,Watch,Casio,100,20,Accessories,Standard Price,09,FR,JUL,,,
